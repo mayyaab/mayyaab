@@ -1,7 +1,7 @@
 # Hi, I'm Mayya 
 
 - 💼 FrontEnd Engineer at [Rent.](https://www.rent.com/)
--  Currently living in  San Francisco Bay Area, US.
+- :city_sunrise: Currently living in  San Francisco Bay Area, US.
   <h3>Things I code with</h3>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
