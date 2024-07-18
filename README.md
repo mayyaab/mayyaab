@@ -1,6 +1,6 @@
 # Hi, I'm Mayya 
 
-- 💼 FrontEnd Engineer at [Rent.](https://www.rent.com/)
+- 💼 FrontEnd Engineer
 - :city_sunrise: Currently living in  San Francisco Bay Area, US.
   <h3>Things I code with</h3>
 <p>
